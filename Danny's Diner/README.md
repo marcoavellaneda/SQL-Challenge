@@ -1,6 +1,6 @@
 ## Danny's Dinner
 
-![alt text](https://8weeksqlchallenge.com/images/case-study-designs/1.png){height=375px width=350px}
+<img src= "https://8weeksqlchallenge.com/images/case-study-designs/1.png" height=475px width=450px>
 
 ### Introdução
 Danny adora comida japonesa, então no início de 2021, ele decide embarcar em uma aventura arriscada e abre um pequeno e charmoso restaurante que vende suas três comidas favoritas: sushi, curry e ramen.
