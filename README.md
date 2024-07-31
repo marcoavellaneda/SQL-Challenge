@@ -22,6 +22,6 @@ Cada diretório neste repositório corresponde a um estudo de caso específico e
 
 <h2>📒 Estudos de Caso</h2>
 
-1. **Case Study #1: Danny's Diner**
-   - Descrição e Análise: [link para descrição]
-   - Consultas SQL: [link para consultas]
+1. **Danny's Diner**
+   - [Descrição e Análise](https://github.com/marcoavellaneda/SQL-Challenge/blob/main/Danny's%20Diner/README.md)
+   - [Consultas SQL](https://github.com/marcoavellaneda/SQL-Challenge/tree/main/Danny's%20Diner/01-queries)
